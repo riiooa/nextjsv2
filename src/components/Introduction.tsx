@@ -7,7 +7,7 @@ export default function Introduction() {
                 <div>
                 <div>
                 <p className="text-[#86A788] pt-5 text-2xl font-bold  ">Teknik Informatika</p>
-                <h2 className="text-[#D39D55] pt-5 text-6xl  font-bold">Hello, I'm </h2>
+                <h2 className="text-[#D39D55] pt-5 text-6xl  font-bold">Hello, I&apos;m </h2>
                 <h1 className="text-[#161D6F] pt-5 text-9xl  font-extrabold ">Rio Al Fandi </h1>
                 
                 </div>
